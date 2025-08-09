@@ -1,0 +1,22 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+
+# Environment & dependency files
+requirements.lock
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Model/data caches (only if stored locally in repo)
+.cache/
+huggingface/
